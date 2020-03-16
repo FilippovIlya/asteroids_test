@@ -7,6 +7,7 @@
 -Билд под пк https://github.com/FilippovIlya/asteroids_test/blob/master/game.zip
 
 -Управление:
+
   W	--> Движение вперед
   
   Правый клик мыши -->	Выстрел
